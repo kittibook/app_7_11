@@ -13,8 +13,8 @@ class Cart extends StatefulWidget {
 }
 
 class _CartState extends State<Cart> {
-  String _currentPosition = '';
-  String _saveCurrentPosition = '';
+  String _currentPosition = 'ไม่พบที่ออยู่ กรุณาเลือกที่อยู่';
+  String _saveCurrentPosition = 'ไม่พบที่ออยู่ กรุณาเลือกที่อยู่';
   String _shippingCost = '';
 
   @override
@@ -30,6 +30,7 @@ class _CartState extends State<Cart> {
     var map1 = await Utility.getSharedPreference('SEVEN');
     var map11 = await Utility.getSharedPreference('SEVEN1');
     var map12 = await Utility.getSharedPreference('SEVEN2');
+    if (user11 != null && user12 != null && map11 != null && map12){
     var _lastDistance = Geolocator.distanceBetween(
       map11,
       map12,
@@ -60,6 +61,7 @@ class _CartState extends State<Cart> {
         });
       }
     });
+    }
   }
 
   @override
@@ -261,7 +263,8 @@ class _PriceSummaryState extends State<PriceSummary> {
     var user12 = await Utility.getSharedPreference('USERMARKER2');
     var map11 = await Utility.getSharedPreference('SEVEN1');
     var map12 = await Utility.getSharedPreference('SEVEN2');
-    var _lastDistance = Geolocator.distanceBetween(
+    if (user11 != null && user12 != null && map11 != null && map12){
+      var _lastDistance = Geolocator.distanceBetween(
       map11,
       map12,
       user11,
@@ -280,6 +283,8 @@ class _PriceSummaryState extends State<PriceSummary> {
         });
       }
     });
+    }
+    
   }
 
   @override

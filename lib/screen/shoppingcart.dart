@@ -133,6 +133,7 @@ class _ShoppingcartState extends State<Shoppingcart> {
       bottomNavigationBar: GestureDetector(
         onTap: () async {
           await Utility.setSharedPreference('cartItems', cartItems);
+          
           Navigator.pushReplacementNamed(
             context,
             AppRouter.cart,

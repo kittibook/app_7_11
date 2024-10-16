@@ -1,4 +1,0 @@
-#Wed Oct 16 20:01:02 ICT 2024
-base.0=/Users/bxok/Desktop/app_7_11/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
