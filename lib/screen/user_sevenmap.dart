@@ -40,9 +40,9 @@ class _UserSevenmapState extends State<UserSevenmap> {
   @override
   void initState() {
     super.initState();
+    _getCurrentLocation();
     getdata();
     // _addMarkers(); // เรียกใช้ฟังก์ชันเพิ่ม markers
-    _getCurrentLocation();
     customMarker();
   }
 
@@ -74,12 +74,10 @@ class _UserSevenmapState extends State<UserSevenmap> {
           markerId: const MarkerId('User'),
           position: _currentPosition,
           infoWindow: const InfoWindow(title: 'Your Location'),
-          icon: customIcon,
+          icon: BitmapDescriptor.defaultMarker,
         ),
       );
     });
-    print(_currentPosition);
-    print(Seven1);
     HandleSubmit();
   }
 
@@ -118,31 +116,28 @@ class _UserSevenmapState extends State<UserSevenmap> {
       _lastDistance = _calculateDistance();
       print(
           "Distance to last saved position: ${_lastDistance.toStringAsFixed(2)} meters");
-          _checkDistanceForShipping();
+      _checkDistanceForShipping();
     });
   }
 
   void _checkDistanceForShipping() {
-  if (_lastDistance <= 3000) {
-    setState(() {
-      _shippingCost = 0;
-    });
-  } else {
-    double additionalCost = (_lastDistance - 3000) * 0.05; // คิดค่าบริการ 0.05 ต่อเมตรหลังจาก 3 กิโลเมตร
-    setState(() {
-      _shippingCost = additionalCost;
-    });
+    if (_lastDistance <= 3000) {
+      setState(() {
+        _shippingCost = 0;
+      });
+    } else {
+      double additionalCost = (_lastDistance - 3000) *
+          0.05; // คิดค่าบริการ 0.05 ต่อเมตรหลังจาก 3 กิโลเมตร
+      setState(() {
+        _shippingCost = additionalCost;
+      });
+    }
   }
-  print('Shipping cost: $_shippingCost'); // เพิ่มการพิมพ์ค่าลงในคอนโซล
-}
-
 
   Future<void> _getDirections() async {
     try {
-      print('Seven1');
-      print(Seven1);
       final response = await http.get(Uri.parse(
-          'https://maps.googleapis.com/maps/api/directions/json?origin=${Seven1.latitude},${Seven1.longitude}&destination=${_currentPosition.latitude},${_currentPosition.longitude}&mode=driving&alternatives=true&key=AIzaSyCKaEyTbcagMAR928sR7-7_hAg29uGdo3M'));
+          'https://maps.googleapis.com/maps/api/directions/json?origin=${Seven1.latitude},${Seven1.longitude}&destination=${_currentPosition.latitude},${_currentPosition.longitude}&mode=driving&alternatives=true&key=AIzaSyDdlrYf7eKH5CyMlnpP09HCDVSK7JOCzAg'));
 
       if (response.statusCode == 200) {
         final data = json.decode(response.body);
@@ -270,7 +265,7 @@ class _UserSevenmapState extends State<UserSevenmap> {
       appBar: AppBar(
         backgroundColor: Color.fromRGBO(6, 130, 68, 1),
         title: const Text(
-          "ระยะหาง",
+          "ระยะห่าง",
           style: TextStyle(color: Colors.white),
         ),
       ),
@@ -313,14 +308,14 @@ class _UserSevenmapState extends State<UserSevenmap> {
                       child: Container(
                         decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(20),
-                          color: Color.fromRGBO(6, 130, 68, 1),
                         ),
                         child: Center(
-                          child: Text('ราคา : ${_shippingCost.toStringAsFixed(2)}',
+                          child: Text(
+                              'ราคาค่าส่ง : ${_shippingCost.toStringAsFixed(2)}',
                               style: TextStyle(
                                   fontSize: 20,
                                   fontWeight: FontWeight.bold,
-                                  color: Color.fromRGBO(255, 255, 255, 1))),
+                                  color: Color.fromRGBO(0, 134, 89, 1))),
                         ),
                       ),
                     ),

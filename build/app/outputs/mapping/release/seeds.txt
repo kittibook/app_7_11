@@ -1,0 +1,1071 @@
+androidx.window.extensions.core.util.function.Function
+com.google.android.gms.common.api.GoogleApiActivity
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+com.google.android.gms.auth.api.signin.GoogleSignInAccount
+com.google.android.gms.common.api.internal.BasePendingResult
+androidx.fragment.app.DialogFragment
+io.flutter.view.TextureRegistry$ImageConsumer
+com.google.android.gms.location.LocationAvailability
+io.flutter.embedding.engine.FlutterJNI
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+androidx.versionedparcelable.ParcelImpl
+com.google.android.gms.common.GooglePlayServicesIncorrectManifestValueException
+com.google.android.gms.common.GooglePlayServicesMissingManifestValueException
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+io.flutter.plugin.platform.SingleViewPresentation
+io.flutter.plugins.GeneratedPluginRegistrant
+com.google.android.gms.common.util.DynamiteApi
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback
+io.flutter.embedding.engine.FlutterOverlaySurface
+kotlinx.coroutines.android.AndroidDispatcherFactory
+com.google.android.gms.common.internal.ReflectedParcelable
+androidx.profileinstaller.ProfileInstallReceiver
+com.baseflow.geolocator.GeolocatorLocationService
+androidx.core.graphics.drawable.IconCompatParcelizer
+io.flutter.view.TextureRegistry$ImageTextureEntry
+com.google.android.gms.common.api.Scope
+io.flutter.view.FlutterCallbackInformation
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+android.support.v4.app.RemoteActionCompatParcelizer
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+com.example.app_7_11.MainActivity
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements
+io.flutter.view.TextureRegistry$SurfaceProducer
+androidx.window.extensions.core.util.function.Consumer
+com.google.android.gms.maps.model.CameraPosition
+com.google.maps.android.ui.RotationLayout
+io.flutter.view.TextureRegistry$GLTextureConsumer
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements
+com.google.android.gms.maps.model.LatLng
+androidx.core.app.RemoteActionCompat
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements
+com.google.android.gms.location.LocationRequest
+com.google.android.gms.common.api.internal.zzd
+io.flutter.view.AccessibilityViewEmbedder
+io.flutter.view.TextureRegistry$SurfaceTextureEntry
+com.google.android.gms.common.GooglePlayServicesManifestException
+com.google.android.gms.common.annotation.KeepName
+androidx.core.app.RemoteActionCompatParcelizer
+androidx.startup.InitializationProvider
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+androidx.window.extensions.core.util.function.Predicate
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.lifecycle.ProcessLifecycleInitializer
+androidx.lifecycle.DefaultLifecycleObserver
+androidx.annotation.Keep
+com.google.android.gms.maps.model.LatLngBounds
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements
+com.google.android.gms.common.api.internal.LifecycleCallback
+com.google.android.gms.maps.GoogleMapOptions
+com.google.android.gms.common.api.Status
+androidx.profileinstaller.ProfileInstallerInitializer
+com.google.android.gms.location.LocationResult
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry
+androidx.core.app.CoreComponentFactory
+com.google.android.gms.common.SupportErrorDialogFragment
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.core.graphics.drawable.IconCompat
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastScheduleTime
+com.google.android.gms.maps.model.StyleSpan: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.protobuf.AbstractMessageLite: int memoizedHashCode
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+androidx.fragment.app.BackStackState: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.lang.Object lock
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer this$0
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+com.google.android.gms.maps.model.PatternItem: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: android.media.Image image
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment
+com.google.android.gms.location.LocationRequest: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.protobuf.MapFieldLite preferences_
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: java.lang.ClassLoader sClassLoader
+kotlinx.coroutines.UndispatchedCoroutine: boolean threadLocalIsSet
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: boolean ignoringFence
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean newFrameAvailable
+com.google.android.gms.maps.model.MapStyleOptions: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$Value: int FLOAT_FIELD_NUMBER
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+androidx.fragment.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+androidx.datastore.preferences.PreferencesProto$Value: int DOUBLE_FIELD_NUMBER
+com.google.android.gms.common.ConnectionResult: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.api.Status: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+androidx.datastore.preferences.PreferencesProto$Value: java.lang.Object value_
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+kotlinx.coroutines.sync.SemaphoreImpl: java.lang.Object head
+com.google.android.gms.internal.location.zzei: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.PreferencesProto$StringSet DEFAULT_INSTANCE
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: java.lang.String TAG
+com.google.android.gms.auth.api.signin.GoogleSignInAccount: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+com.google.android.gms.common.Feature: android.os.Parcelable$Creator CREATOR
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+kotlinx.coroutines.InvokeOnCancelling: int _invoked
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+com.google.android.gms.location.LocationResult: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: java.lang.Runnable onFrameConsumed
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: boolean released
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int requestedWidth
+com.google.android.gms.internal.location.zzee: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$Value: androidx.datastore.preferences.protobuf.Parser PARSER
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+com.google.android.gms.maps.GoogleMapOptions: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$Value: int STRING_FIELD_NUMBER
+com.google.android.gms.signin.internal.zak: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+kotlinx.coroutines.sync.SemaphoreImpl: long enqIdx
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+com.google.android.gms.maps.model.PolylineOptions: android.os.Parcelable$Creator CREATOR
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+androidx.datastore.preferences.PreferencesProto$Value: int INTEGER_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean trimOnMemoryPressure
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int memoizedSerializedSize
+com.google.android.gms.location.LocationSettingsRequest: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+com.google.android.gms.maps.model.CircleOptions: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: float displayWidth
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+androidx.datastore.preferences.PreferencesProto$Value: int STRING_SET_FIELD_NUMBER
+androidx.fragment.app.FragmentState: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+androidx.datastore.preferences.PreferencesProto$Value: int valueCase_
+com.google.android.gms.maps.model.StrokeStyle: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$Value: int bitField0_
+androidx.datastore.preferences.PreferencesProto$Value: androidx.datastore.preferences.PreferencesProto$Value DEFAULT_INSTANCE
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean createNewReader
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.PreferencesProto$PreferenceMap DEFAULT_INSTANCE
+com.google.android.gms.maps.model.TileOverlayOptions: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+com.google.android.gms.common.internal.MethodInvocation: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastDequeueTime
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus
+com.google.android.gms.common.internal.ConnectionTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.protobuf.Parser PARSER
+com.google.android.gms.location.LocationSettingsStates: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.protobuf.Parser PARSER
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int requestedHeight
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+com.google.android.gms.common.internal.zzk: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+io.flutter.embedding.engine.FlutterJNI: float displayDensity
+kotlinx.coroutines.CompletedExceptionally: int _handled
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+com.google.android.gms.common.internal.GetServiceRequest: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.sync.SemaphoreImpl: int _availablePermits
+com.google.android.gms.common.internal.zat: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.maps.model.LatLngBounds: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+com.google.android.gms.maps.model.MarkerOptions: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+kotlinx.coroutines.channels.BufferedChannel: long receivers
+kotlinx.coroutines.CancelledContinuation: int _resumed
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: io.flutter.embedding.engine.renderer.FlutterRenderer this$0
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+com.google.android.gms.location.LocationSettingsResult: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+com.google.android.gms.common.internal.ClientIdentity: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+com.google.android.gms.signin.internal.zai: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.HashMap perImageReaders
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+androidx.datastore.preferences.PreferencesProto$StringSet: int STRINGS_FIELD_NUMBER
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.view.TextureRegistry$SurfaceProducer$Callback callback
+com.google.android.gms.internal.location.zzl: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.ArrayDeque imageReaderQueue
+com.google.android.gms.maps.model.PolygonOptions: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause
+com.google.android.gms.maps.model.CameraPosition: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+com.google.android.gms.location.LocationAvailability: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean CLEANUP_ON_MEMORY_PRESSURE
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean VERBOSE_LOGS
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: long id
+androidx.fragment.app.BackStackRecordState: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: androidx.datastore.preferences.protobuf.UnknownFieldSetLite unknownFields
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+com.google.android.gms.signin.internal.zag: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.api.Scope: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader lastReaderDequeuedFrom
+io.flutter.embedding.engine.FlutterJNI: java.lang.String vmServiceUri
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long id
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int MAX_IMAGES
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.lang.String TAG
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+androidx.datastore.preferences.PreferencesProto$Value: int LONG_FIELD_NUMBER
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastQueueTime
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+kotlinx.coroutines.flow.StateFlowSlot: java.lang.Object _state
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+kotlinx.coroutines.sync.SemaphoreImpl: java.lang.Object tail
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean attached
+com.google.android.gms.maps.model.Cap: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+com.google.android.gms.maps.model.Tile: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.TelemetryData: android.os.Parcelable$Creator CREATOR
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+com.google.android.gms.internal.location.zzeg: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: java.util.Map defaultInstanceMap
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImage lastDequeuedImage
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: int PREFERENCES_FIELD_NUMBER
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+kotlinx.coroutines.sync.SemaphoreImpl: long deqIdx
+io.flutter.embedding.engine.FlutterJNI: float displayHeight
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+com.google.android.gms.location.zzal: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.RootTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.maps.model.StampStyle: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+com.google.android.gms.location.LastLocationRequest: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$Value: int BOOLEAN_FIELD_NUMBER
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean ignoringFence
+com.google.android.gms.signin.internal.zaa: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object owner
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+androidx.fragment.app.FragmentManager$LaunchedFragmentInfo: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.maps.model.LatLng: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+com.google.android.gms.common.internal.zav: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.google.android.gms.internal.location.zze: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.maps.model.VisibleRegion: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean released
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.protobuf.Internal$ProtobufList strings_
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.String TAG
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numTrims
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+kotlinx.coroutines.DispatchedCoroutine: int _decision
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+androidx.core.app.NotificationManagerCompat$Api24Impl: boolean areNotificationsEnabled(android.app.NotificationManager)
+io.flutter.embedding.engine.FlutterJNI: void onVsync(long,long,long)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void maybeWaitOnFence(android.media.Image)
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterImageTexture(long,long,java.lang.ref.WeakReference)
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+androidx.window.layout.util.ContextCompatHelperApi30: androidx.core.view.WindowInsetsCompat currentWindowInsets(android.content.Context)
+io.flutter.embedding.engine.FlutterJNI: void updateRefreshRate()
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+androidx.core.location.LocationManagerCompat$Api19Impl: boolean tryRequestLocationUpdates(android.location.LocationManager,java.lang.String,androidx.core.location.LocationRequestCompat,androidx.core.location.LocationListenerCompat,android.os.Looper)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+io.flutter.embedding.engine.FlutterJNI: void nativeScheduleFrame(long)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setCategory(android.app.Notification$Builder,java.lang.String)
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: android.util.DisplayMetrics getWindowAreaDisplayMetrics()
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+androidx.core.location.LocationCompat$Api26Impl: float getBearingAccuracyDegrees(android.location.Location)
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder addPerson(android.app.Notification$Builder,java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifierBase(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int,int)
+androidx.datastore.preferences.protobuf.WireFormat$FieldType: androidx.datastore.preferences.protobuf.WireFormat$FieldType[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: long id()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void pruneImageReaderQueue()
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void waitOnFence(android.media.Image)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+androidx.core.app.NotificationManagerCompat$Api26Impl: void createNotificationChannel(android.app.NotificationManager,android.app.NotificationChannel)
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getType(java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+androidx.core.location.LocationCompat$Api26Impl: float getVerticalAccuracyMeters(android.location.Location)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+com.example.app_7_11.MainActivity: MainActivity()
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Builder setBubbleMetadata(android.app.Notification$Builder,android.app.Notification$BubbleMetadata)
+androidx.core.view.ViewCompat$Api28Impl: void setAutofillId(android.view.View,androidx.core.view.autofill.AutofillIdCompat)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: java.lang.String getGroup(android.app.Notification)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setBadgeIconType(android.app.Notification$Builder,int)
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+io.flutter.embedding.android.KeyData$DeviceType: io.flutter.embedding.android.KeyData$DeviceType valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceProducer: void setSize(int,int)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+com.google.android.gms.maps.MapsInitializer$Renderer: com.google.android.gms.maps.MapsInitializer$Renderer valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode[] values()
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState[] values()
+androidx.activity.Api34Impl: int swipeEdge(android.window.BackEvent)
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+androidx.activity.Api34Impl: float touchY(android.window.BackEvent)
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int getWidth()
+androidx.core.app.RemoteInput$Api20Impl: android.os.Bundle getResultsFromIntent(android.content.Intent)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$502(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.android.FlutterView: void setVisibility(int)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+androidx.core.view.ViewCompat$Api21Impl: void setTransitionName(android.view.View,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void updateDisplayMetrics(int,float,float,float)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Builder setAllowSystemGeneratedContextualActions(android.app.Notification$Builder,boolean)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+androidx.core.app.NotificationCompatBuilder$Api28Impl: android.app.Notification$Action$Builder setSemanticAction(android.app.Notification$Action$Builder,int)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setCustomBigContentView(android.app.Notification$Builder,android.widget.RemoteViews)
+androidx.core.app.ActivityCompat$Api31Impl: boolean shouldShowRequestPermissionRationale(android.app.Activity,java.lang.String)
+androidx.core.os.LocaleListCompat$Api24Impl: android.os.LocaleList createLocaleList(java.util.Locale[])
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+androidx.profileinstaller.ProfileVerifier$Api33Impl: android.content.pm.PackageInfo getPackageInfo(android.content.pm.PackageManager,android.content.Context)
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintMode(android.view.View,android.graphics.PorterDuff$Mode)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void startRearDisplayPresentationSession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.fragment.app.SpecialEffectsController$Operation$State: androidx.fragment.app.SpecialEffectsController$Operation$State valueOf(java.lang.String)
+androidx.core.app.ActivityCompat$Api23Impl: void onSharedElementsReady(java.lang.Object)
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.app.AppOpsManagerCompat$Api29Impl: java.lang.String getOpPackageName(android.content.Context)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean access$800(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action$Builder addRemoteInput(android.app.Notification$Action$Builder,android.app.RemoteInput)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.view.Surface getSurface()
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.core.view.ViewCompat$Api21Impl: android.content.res.ColorStateList getBackgroundTintList(android.view.View)
+androidx.activity.Api34Impl: float progress(android.window.BackEvent)
+androidx.core.location.LocationCompat$Api26Impl: void setVerticalAccuracyMeters(android.location.Location,float)
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Builder setLocusId(android.app.Notification$Builder,java.lang.Object)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.core.app.NotificationCompatBuilder$Api31Impl: android.app.Notification$Action$Builder setAuthenticationRequired(android.app.Notification$Action$Builder,boolean)
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void finalize()
+androidx.fragment.app.FragmentContainerView: void setDrawDisappearingViewsLast(boolean)
+io.flutter.plugins.googlemaps.Messages$PlatformPatternItemType: io.flutter.plugins.googlemaps.Messages$PlatformPatternItemType[] values()
+androidx.core.view.ViewCompat$Api28Impl: void removeOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityPaneTitle(android.view.View,java.lang.CharSequence)
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.app.ActivityCompat$Api23Impl: void requestPermissions(android.app.Activity,java.lang.String[],int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setGroupAlertBehavior(android.app.Notification$Builder,int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+io.flutter.view.TextureRegistry$ImageConsumer: android.media.Image acquireLatestImage()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.app.NotificationManagerCompat$Api26Impl: void deleteNotificationChannel(android.app.NotificationManager,java.lang.String)
+androidx.core.app.NotificationCompatBuilder$Api23Impl: android.app.Notification$Builder setSmallIcon(android.app.Notification$Builder,java.lang.Object)
+androidx.core.view.ViewCompat$Api21Impl: boolean isNestedScrollingEnabled(android.view.View)
+com.google.android.gms.common.api.internal.zzd: zzd()
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.core.content.ContextCompat$Api21Impl: java.io.File getNoBackupFilesDir(android.content.Context)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.core.view.ViewCompat$Api21Impl: android.graphics.PorterDuff$Mode getBackgroundTintMode(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.core.app.AppOpsManagerCompat$Api23Impl: int noteProxyOp(android.app.AppOpsManager,java.lang.String,java.lang.String)
+androidx.core.os.LocaleListCompat$Api24Impl: android.os.LocaleList getAdjustedDefault()
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+androidx.core.view.ViewCompat$Api21Impl: java.lang.String getTransitionName(android.view.View)
+androidx.core.view.ViewGroupCompat$Api21Impl: void setTransitionGroup(android.view.ViewGroup,boolean)
+androidx.core.view.ViewCompat$Api21Impl: void setZ(android.view.View,float)
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String,java.util.List)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+androidx.core.view.ViewCompat$Api21Impl: void stopNestedScroll(android.view.View)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture,java.lang.Runnable)
+androidx.core.app.AppOpsManagerCompat$Api29Impl: android.app.AppOpsManager getSystemService(android.content.Context)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType valueOf(java.lang.String)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: android.window.OnBackInvokedCallback createOnBackInvokedCallback(kotlin.jvm.functions.Function0)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void releaseInternal()
+androidx.core.location.LocationCompat$Api26Impl: void setSpeedAccuracyMetersPerSecond(android.location.Location,float)
+androidx.datastore.preferences.protobuf.Writer$FieldOrder: androidx.datastore.preferences.protobuf.Writer$FieldOrder valueOf(java.lang.String)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader33()
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void endRearDisplaySession()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+io.flutter.plugins.googlemaps.Messages$PlatformJointType: io.flutter.plugins.googlemaps.Messages$PlatformJointType[] values()
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.activity.OnBackPressedDispatcher$Api34Impl: android.window.OnBackInvokedCallback createOnBackAnimationCallback(kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void unregisterOnBackInvokedCallback(java.lang.Object,java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.core.view.ViewCompat$Api23Impl: int getScrollIndicators(android.view.View)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: java.util.List getBoundingRects(android.view.DisplayCutout)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImage dequeueImage()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$102(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader access$700(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+androidx.datastore.preferences.protobuf.JavaType: androidx.datastore.preferences.protobuf.JavaType[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary()
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void setOnFrameConsumedListener(io.flutter.view.TextureRegistry$OnFrameConsumedListener)
+io.flutter.view.TextureRegistry$SurfaceProducer: void setCallback(io.flutter.view.TextureRegistry$SurfaceProducer$Callback)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateDisplayMetrics(long)
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numImageReaders()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+androidx.core.location.LocationManagerCompat$Api31Impl: void requestLocationUpdates(android.location.LocationManager,java.lang.String,android.location.LocationRequest,java.util.concurrent.Executor,android.location.LocationListener)
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+io.flutter.view.TextureRegistry$SurfaceProducer: int getHeight()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long id()
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.android.FlutterImageView getCurrentImageSurface()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader29()
+androidx.core.view.ViewGroupCompat$Api21Impl: boolean isTransitionGroup(android.view.ViewGroup)
+com.google.android.gms.common.SupportErrorDialogFragment: SupportErrorDialogFragment()
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetBottom(android.view.DisplayCutout)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getVMServiceUri()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setSound(android.app.Notification$Builder,android.net.Uri,java.lang.Object)
+androidx.lifecycle.SavedStateHandlesVM: SavedStateHandlesVM()
+androidx.datastore.preferences.protobuf.FieldType: androidx.datastore.preferences.protobuf.FieldType valueOf(java.lang.String)
+io.flutter.plugin.platform.PlatformViewWrapper: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintList(android.view.View,android.content.res.ColorStateList)
+com.baseflow.geolocator.errors.ErrorCodes: com.baseflow.geolocator.errors.ErrorCodes valueOf(java.lang.String)
+androidx.core.app.NotificationCompatBuilder$Api23Impl: android.app.Notification$Builder setLargeIcon(android.app.Notification$Builder,android.graphics.drawable.Icon)
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.app.NotificationManagerCompat$Api26Impl: void createNotificationChannels(android.app.NotificationManager,java.util.List)
+androidx.core.app.RemoteInput$Api26Impl: java.util.Map getDataResultsFromIntent(android.content.Intent,java.lang.String)
+androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke: androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: void scheduleFrame()
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.datastore.preferences.PreferencesProto$Value$ValueCase: androidx.datastore.preferences.PreferencesProto$Value$ValueCase[] values()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+androidx.window.layout.adapter.sidecar.SidecarCompat: void setExtensionCallback(androidx.window.layout.adapter.sidecar.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+io.flutter.plugin.platform.PlatformViewWrapper: void setTouchProcessor(io.flutter.embedding.android.AndroidTouchProcessor)
+androidx.core.app.RemoteInput$Api26Impl: java.util.Set getAllowedDataTypes(java.lang.Object)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setColorized(android.app.Notification$Builder,boolean)
+io.flutter.view.TextureRegistry$SurfaceProducer: int getWidth()
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState valueOf(java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+com.baseflow.geolocator.location.LocationAccuracyStatus: com.baseflow.geolocator.location.LocationAccuracyStatus[] values()
+androidx.fragment.app.DefaultSpecialEffectsController$Api24Impl: long totalDuration(android.animation.AnimatorSet)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action$Builder createBuilder(int,java.lang.CharSequence,android.app.PendingIntent)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setGroupSummary(android.app.Notification$Builder,boolean)
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Icon createWithAdaptiveBitmap(android.graphics.Bitmap)
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetLeft(android.view.DisplayCutout)
+androidx.core.content.ContextCompat$Api21Impl: android.graphics.drawable.Drawable getDrawable(android.content.Context,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader getOrCreatePerImageReader(android.media.ImageReader)
+io.flutter.view.TextureRegistry$ImageTextureEntry: long id()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.app.NotificationManagerCompat$Api26Impl: android.app.NotificationChannel getNotificationChannel(android.app.NotificationManager,java.lang.String)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+io.flutter.plugins.googlemaps.Messages$PlatformJointType: io.flutter.plugins.googlemaps.Messages$PlatformJointType valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void maybeWaitOnFence(android.media.Image)
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: androidx.window.extensions.area.ExtensionWindowAreaPresentation getRearDisplayPresentation()
+io.flutter.plugins.googlemaps.Messages$PlatformCapType: io.flutter.plugins.googlemaps.Messages$PlatformCapType[] values()
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformView,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,android.view.View$OnFocusChangeListener)
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.core.location.LocationCompat$Api26Impl: void removeSpeedAccuracy(android.location.Location)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointVariantSelector(int)
+androidx.core.location.LocationCompat$Api26Impl: boolean hasSpeedAccuracy(android.location.Location)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat computeSystemWindowInsets(android.view.View,androidx.core.view.WindowInsetsCompat,android.graphics.Rect)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+androidx.core.app.AppOpsManagerCompat$Api23Impl: java.lang.String permissionToOp(java.lang.String)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: void setNestedScrollingEnabled(android.view.View,boolean)
+androidx.core.app.NotificationCompatBuilder$Api31Impl: android.app.Notification$Builder setForegroundServiceBehavior(android.app.Notification$Builder,int)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder addAction(android.app.Notification$Builder,android.app.Notification$Action)
+androidx.core.app.NotificationCompatBuilder$Api28Impl: android.app.Notification$Builder addPerson(android.app.Notification$Builder,android.app.Person)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void setSize(int,int)
+androidx.core.content.ContextCompat$Api26Impl: android.content.ComponentName startForegroundService(android.content.Context,android.content.Intent)
+androidx.core.view.ViewCompat$Api21Impl: float getZ(android.view.View)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setVisibility(android.app.Notification$Builder,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.fragment.app.DefaultSpecialEffectsController$Api26Impl: void setCurrentPlayTime(android.animation.AnimatorSet,long)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void registerOnBackInvokedCallback(java.lang.Object,int,java.lang.Object)
+androidx.core.app.NotificationManagerCompat$Api26Impl: void deleteNotificationChannelGroup(android.app.NotificationManager,java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder createBuilder(android.content.Context,java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedFling(android.view.View,float,float,boolean)
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: android.content.Context getPresentationContext()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+androidx.core.view.ViewCompat$Api21Impl: float getTranslationZ(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.embedding.android.KeyData$DeviceType: io.flutter.embedding.android.KeyData$DeviceType[] values()
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void setOnTrimMemoryListener(io.flutter.view.TextureRegistry$OnTrimMemoryListener)
+com.google.android.gms.maps.MapsInitializer$Renderer: com.google.android.gms.maps.MapsInitializer$Renderer[] values()
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact: androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+androidx.fragment.app.SpecialEffectsController$Operation$State: androidx.fragment.app.SpecialEffectsController$Operation$State[] values()
+androidx.core.app.ActivityCompat$Api23Impl: boolean shouldShowRequestPermissionRationale(android.app.Activity,java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: boolean isImportantForAccessibility(android.view.View)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: long id()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void endRearDisplayPresentationSession()
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setShortcutId(android.app.Notification$Builder,java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader getActiveReader()
+com.google.maps.android.ui.RotationLayout: void setViewRotation(int)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Action$Builder setContextual(android.app.Notification$Action$Builder,boolean)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int getHeight()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.fragment.app.DialogFragment: DialogFragment()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+androidx.core.app.NotificationManagerCompat$Api26Impl: void createNotificationChannelGroups(android.app.NotificationManager,java.util.List)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setTimeoutAfter(android.app.Notification$Builder,long)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel: LoaderManagerImpl$LoaderViewModel()
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setLocalOnly(android.app.Notification$Builder,boolean)
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: DynamiteModule$DynamiteLoaderClassLoader()
+androidx.core.app.RemoteInput$Api29Impl: int getEditChoicesBeforeSending(java.lang.Object)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+com.baseflow.geolocator.location.LocationAccuracy: com.baseflow.geolocator.location.LocationAccuracy[] values()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifier(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void addRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setGroup(android.app.Notification$Builder,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: float getScaledFontSize(float,int)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setRemoteInputHistory(android.app.Notification$Builder,java.lang.CharSequence[])
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getResId(java.lang.Object)
+androidx.core.app.NotificationManagerCompat$Api26Impl: java.util.List getNotificationChannels(android.app.NotificationManager)
+androidx.core.app.ActivityCompat$Api31Impl: boolean isLaunchedFromBubble(android.app.Activity)
+androidx.datastore.preferences.protobuf.WireFormat$FieldType: androidx.datastore.preferences.protobuf.WireFormat$FieldType valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.core.location.LocationManagerCompat$Api31Impl: boolean hasProvider(android.location.LocationManager,java.lang.String)
+io.flutter.plugin.platform.PlatformViewWrapper: void setLayoutParams(android.widget.FrameLayout$LayoutParams)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.core.location.LocationCompat$Api26Impl: void setBearingAccuracyDegrees(android.location.Location,float)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setPublicVersion(android.app.Notification$Builder,android.app.Notification)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.core.location.LocationCompat$Api26Impl: boolean hasVerticalAccuracy(android.location.Location)
+androidx.fragment.app.DefaultSpecialEffectsController$Api26Impl: void reverse(android.animation.AnimatorSet)
+io.flutter.embedding.android.FlutterView: void setWindowInfoListenerDisplayFeatures(androidx.window.layout.WindowLayoutInfo)
+io.flutter.view.TextureRegistry$SurfaceProducer: void release()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+androidx.activity.Api34Impl: float touchX(android.window.BackEvent)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numTrims()
+androidx.datastore.preferences.protobuf.WireFormat$JavaType: androidx.datastore.preferences.protobuf.WireFormat$JavaType[] values()
+com.google.android.gms.common.api.GoogleApiActivity: GoogleApiActivity()
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void startRearDisplaySession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointRegionalIndicator(int)
+androidx.profileinstaller.ProfileInstallerInitializer$Choreographer16Impl: void postFrameCallback(java.lang.Runnable)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: android.media.Image acquireLatestImage()
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type valueOf(java.lang.String)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetTop(android.view.DisplayCutout)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Action$Builder setAllowGeneratedReplies(android.app.Notification$Action$Builder,boolean)
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.app.NotificationManagerCompat$Api24Impl: int getImportance(android.app.NotificationManager)
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void cleanup()
+androidx.core.location.LocationRequestCompat$Api31Impl: android.location.LocationRequest toLocationRequest(androidx.core.location.LocationRequestCompat)
+androidx.core.content.ContextCompat$Api26Impl: android.content.Intent registerReceiver(android.content.Context,android.content.BroadcastReceiver,android.content.IntentFilter,java.lang.String,android.os.Handler,int)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetRight(android.view.DisplayCutout)
+androidx.core.location.LocationCompat$Api26Impl: float getSpeedAccuracyMetersPerSecond(android.location.Location)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.core.view.ViewCompat$Api21Impl: void setElevation(android.view.View,float)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.Image acquireLatestImage()
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+com.baseflow.geolocator.GeolocatorLocationService: GeolocatorLocationService()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.graphics.Insets$Api29Impl: android.graphics.Insets of(int,int,int,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numImages()
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setSortKey(android.app.Notification$Builder,java.lang.String)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.Object requireViewById(android.view.View,int)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+io.flutter.plugin.platform.PlatformViewWrapper: android.view.ViewTreeObserver$OnGlobalFocusChangeListener getActiveFocusListener()
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: int getWindowAreaStatus()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void onImage(android.media.ImageReader,android.media.Image)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+com.baseflow.geolocator.location.ServiceStatus: com.baseflow.geolocator.location.ServiceStatus[] values()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedScroll(android.view.View,int,int,int,int,int[])
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmoji(int)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.core.location.LocationManagerCompat$Api19Impl: boolean tryRequestLocationUpdates(android.location.LocationManager,java.lang.String,androidx.core.location.LocationRequestCompat,androidx.core.location.LocationManagerCompat$LocationListenerTransport)
+androidx.window.extensions.core.util.function.Predicate: boolean test(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+io.flutter.plugins.googlemaps.Messages$PlatformPatternItemType: io.flutter.plugins.googlemaps.Messages$PlatformPatternItemType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.core.app.NotificationCompatBuilder$Api23Impl: android.app.Notification$Action$Builder createBuilder(android.graphics.drawable.Icon,java.lang.CharSequence,android.app.PendingIntent)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+io.flutter.plugins.googlemaps.Messages$PlatformRendererType: io.flutter.plugins.googlemaps.Messages$PlatformRendererType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Drawable loadDrawable(android.graphics.drawable.Icon,android.content.Context)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.core.location.LocationManagerCompat$Api31Impl: boolean registerGnssMeasurementsCallback(android.location.LocationManager,java.util.concurrent.Executor,android.location.GnssMeasurementsEvent$Callback)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setColor(android.app.Notification$Builder,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void disableFenceForTest()
+io.flutter.plugins.googlemaps.Messages$PlatformCapType: io.flutter.plugins.googlemaps.Messages$PlatformCapType valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: FlutterRenderer$ImageTextureRegistryEntry(io.flutter.embedding.engine.renderer.FlutterRenderer,long)
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void waitOnFence(android.media.Image)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceProducer: android.view.Surface getSurface()
+androidx.core.view.ViewGroupCompat$Api21Impl: int getNestedScrollAxes(android.view.ViewGroup)
+androidx.core.location.LocationCompat$Api26Impl: boolean hasBearingAccuracy(android.location.Location)
+io.flutter.plugin.platform.PlatformViewWrapper: int getRenderTargetHeight()
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+io.flutter.view.TextureRegistry$SurfaceProducer: long id()
+androidx.datastore.preferences.protobuf.FieldType$Collection: androidx.datastore.preferences.protobuf.FieldType$Collection[] values()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+com.baseflow.geolocator.permission.LocationPermission: com.baseflow.geolocator.permission.LocationPermission[] values()
+androidx.core.location.LocationCompat$Api26Impl: void removeVerticalAccuracy(android.location.Location)
+androidx.core.os.ConfigurationCompat$Api24Impl: android.os.LocaleList getLocales(android.content.res.Configuration)
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+androidx.datastore.preferences.protobuf.JavaType: androidx.datastore.preferences.protobuf.JavaType valueOf(java.lang.String)
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+androidx.fragment.app.FragmentContainerView: void setLayoutTransition(android.animation.LayoutTransition)
+com.baseflow.geolocator.location.LocationAccuracyStatus: com.baseflow.geolocator.location.LocationAccuracyStatus valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+androidx.datastore.preferences.protobuf.ProtoSyntax: androidx.datastore.preferences.protobuf.ProtoSyntax valueOf(java.lang.String)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompat$Api30Impl: android.graphics.drawable.Icon createWithAdaptiveBitmapContentUri(android.net.Uri)
+io.flutter.view.TextureRegistry$GLTextureConsumer: android.graphics.SurfaceTexture getSurfaceTexture()
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+io.flutter.view.TextureRegistry$ImageTextureEntry: void release()
+androidx.core.app.NotificationManagerCompat$Api26Impl: java.util.List getNotificationChannelGroups(android.app.NotificationManager)
+io.flutter.plugin.platform.PlatformViewWrapper: int getRenderTargetWidth()
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.net.Uri getUri(java.lang.Object)
+androidx.lifecycle.ProcessLifecycleOwner$Api29Impl: void registerActivityLifecycleCallbacks(android.app.Activity,android.app.Application$ActivityLifecycleCallbacks)
+com.google.android.gms.maps.GoogleMapOptions: GoogleMapOptions()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+androidx.datastore.preferences.PreferencesProto$Value$ValueCase: androidx.datastore.preferences.PreferencesProto$Value$ValueCase valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+androidx.profileinstaller.ProfileInstallerInitializer$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact: androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+androidx.window.extensions.core.util.function.Consumer: void accept(java.lang.Object)
+androidx.startup.InitializationProvider: InitializationProvider()
+androidx.core.app.RemoteInput$Api20Impl: void addResultsToIntent(java.lang.Object,android.content.Intent,android.os.Bundle)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void scheduleFrame()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.core.view.ViewCompat$Api21Impl: float getElevation(android.view.View)
+androidx.core.os.LocaleListCompat$Api24Impl: android.os.LocaleList getDefault()
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreFling(android.view.View,float,float)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreScroll(android.view.View,int,int,int[],int[])
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+com.baseflow.geolocator.location.ServiceStatus: com.baseflow.geolocator.location.ServiceStatus valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void finalize()
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: void setPresentationView(android.view.View)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: android.view.DisplayCutout createDisplayCutout(android.graphics.Rect,java.util.List)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+androidx.datastore.preferences.protobuf.ProtoSyntax: androidx.datastore.preferences.protobuf.ProtoSyntax[] values()
+androidx.core.app.NotificationManagerCompat$Api26Impl: java.lang.String getId(android.app.NotificationChannelGroup)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void release()
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setCustomHeadsUpContentView(android.app.Notification$Builder,android.widget.RemoteViews)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: java.lang.String getResPackage(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.datastore.preferences.protobuf.FieldType: androidx.datastore.preferences.protobuf.FieldType[] values()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.fragment.app.FragmentContainerView: androidx.fragment.app.Fragment getFragment()
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Icon toIcon(androidx.core.graphics.drawable.IconCompat,android.content.Context)
+androidx.core.content.ContextCompat$Api28Impl: java.util.concurrent.Executor getMainExecutor(android.content.Context)
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC: void $default$setOnTrimMemoryListener(io.flutter.view.TextureRegistry$SurfaceTextureEntry,io.flutter.view.TextureRegistry$OnTrimMemoryListener)
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+androidx.core.app.RemoteInput$Api29Impl: android.app.RemoteInput$Builder setEditChoicesBeforeSending(android.app.RemoteInput$Builder,int)
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+androidx.activity.Api34Impl: android.window.BackEvent createOnBackEvent(float,float,float,int)
+io.flutter.plugins.googlemaps.Messages$PlatformMapType: io.flutter.plugins.googlemaps.Messages$PlatformMapType valueOf(java.lang.String)
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void onTrimMemory(int)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+androidx.core.app.NotificationManagerCompat$Api26Impl: java.lang.String getId(android.app.NotificationChannel)
+androidx.core.app.NotificationManagerCompat$Api26Impl: void createNotificationChannelGroup(android.app.NotificationManager,android.app.NotificationChannelGroup)
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void release()
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+io.flutter.embedding.engine.FlutterJNI: void registerImageTexture(long,io.flutter.view.TextureRegistry$ImageConsumer)
+androidx.core.os.ConfigurationCompat$Api24Impl: void setLocales(android.content.res.Configuration,androidx.core.os.LocaleListCompat)
+com.google.android.gms.common.api.internal.LifecycleCallback: com.google.android.gms.common.api.internal.LifecycleFragment getChimeraLifecycleFragmentImpl(com.google.android.gms.common.api.internal.LifecycleActivity)
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+androidx.fragment.app.strictmode.FragmentStrictMode$Flag: androidx.fragment.app.strictmode.FragmentStrictMode$Flag valueOf(java.lang.String)
+androidx.window.core.VerificationMode: androidx.window.core.VerificationMode valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void removeRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean shouldUpdate()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+androidx.core.view.ViewCompat$Api28Impl: void setScreenReaderFocusable(android.view.View,boolean)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+io.flutter.embedding.android.FlutterView: io.flutter.plugin.common.BinaryMessenger getBinaryMessenger()
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+kotlin.random.Random: Random()
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+androidx.window.extensions.core.util.function.Function: java.lang.Object apply(java.lang.Object)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setSettingsText(android.app.Notification$Builder,java.lang.CharSequence)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: android.net.Uri getUri(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+io.flutter.plugins.googlemaps.Messages$PlatformRendererType: io.flutter.plugins.googlemaps.Messages$PlatformRendererType[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void pushImage(android.media.Image)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+androidx.core.view.ViewCompat$Api21Impl: boolean startNestedScroll(android.view.View,int)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.app.AppOpsManagerCompat$Api23Impl: java.lang.Object getSystemService(android.content.Context,java.lang.Class)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.datastore.preferences.protobuf.FieldType$Collection: androidx.datastore.preferences.protobuf.FieldType$Collection valueOf(java.lang.String)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action$Builder addExtras(android.app.Notification$Action$Builder,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState[] values()
+com.google.maps.android.ui.RotationLayout: RotationLayout(android.content.Context,android.util.AttributeSet)
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+io.flutter.view.TextureRegistry$ImageTextureEntry: void pushImage(android.media.Image)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String,java.util.List)
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void setCallback(io.flutter.view.TextureRegistry$SurfaceProducer$Callback)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.core.app.RemoteInput$Api26Impl: android.app.RemoteInput$Builder setAllowDataType(android.app.RemoteInput$Builder,java.lang.String,boolean)
+com.baseflow.geolocator.location.LocationAccuracy: com.baseflow.geolocator.location.LocationAccuracy valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+io.flutter.plugins.googlemaps.Messages$PlatformMapType: io.flutter.plugins.googlemaps.Messages$PlatformMapType[] values()
+androidx.core.view.ViewCompat$Api21Impl: boolean hasNestedScrollingParent(android.view.View)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void addRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType[] values()
+com.baseflow.geolocator.errors.ErrorCodes: com.baseflow.geolocator.errors.ErrorCodes[] values()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+androidx.fragment.app.strictmode.FragmentStrictMode$Flag: androidx.fragment.app.strictmode.FragmentStrictMode$Flag[] values()
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke: androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.view.TextureRegistry$SurfaceProducer$Callback access$200(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+androidx.core.content.ContextCompat$Api33Impl: android.content.Intent registerReceiver(android.content.Context,android.content.BroadcastReceiver,android.content.IntentFilter,java.lang.String,android.os.Handler,int)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC: void $default$setOnFrameConsumedListener(io.flutter.view.TextureRegistry$SurfaceTextureEntry,io.flutter.view.TextureRegistry$OnFrameConsumedListener)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+androidx.core.app.ActivityCompat$Api32Impl: boolean shouldShowRequestPermissionRationale(android.app.Activity,java.lang.String)
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: android.util.DisplayMetrics getRearDisplayMetrics()
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void markDirty()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type[] values()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: double deltaMillis(long)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+androidx.core.app.RemoteInput$Api26Impl: void addDataResultToIntent(androidx.core.app.RemoteInput,android.content.Intent,java.util.Map)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+io.flutter.embedding.engine.FlutterJNI: void lambda$decodeImage$0(long,android.graphics.ImageDecoder,android.graphics.ImageDecoder$ImageInfo,android.graphics.ImageDecoder$Source)
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+androidx.datastore.preferences.protobuf.WireFormat$JavaType: androidx.datastore.preferences.protobuf.WireFormat$JavaType valueOf(java.lang.String)
+androidx.core.app.AppOpsManagerCompat$Api23Impl: int noteProxyOpNoThrow(android.app.AppOpsManager,java.lang.String,java.lang.String)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void release()
+androidx.core.view.ViewCompat$Api21Impl: void setTranslationZ(android.view.View,float)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityHeading(android.view.View,boolean)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+androidx.core.view.ViewCompat$Api28Impl: void addOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.core.location.LocationCompat$Api26Impl: void removeBearingAccuracy(android.location.Location)
+androidx.core.content.ContextCompat$Api21Impl: java.io.File getCodeCacheDir(android.content.Context)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+com.baseflow.geolocator.permission.LocationPermission: com.baseflow.geolocator.permission.LocationPermission valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action build(android.app.Notification$Action$Builder)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Drawable createAdaptiveIconDrawable(android.graphics.drawable.Drawable,android.graphics.drawable.Drawable)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader()
+androidx.window.core.VerificationMode: androidx.window.core.VerificationMode[] values()
+androidx.fragment.app.FragmentContainerView: void setOnApplyWindowInsetsListener(android.view.View$OnApplyWindowInsetsListener)
+kotlin.collections.AbstractList: AbstractList()
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateRefreshRate(float)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void removeRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: android.graphics.SurfaceTexture surfaceTexture()
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+androidx.core.app.AppOpsManagerCompat$Api29Impl: int checkOpNoThrow(android.app.AppOpsManager,java.lang.String,int,java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceProducer: void scheduleFrame()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+com.google.android.gms.common.GooglePlayServicesMissingManifestValueException: GooglePlayServicesMissingManifestValueException()
+androidx.datastore.preferences.protobuf.Writer$FieldOrder: androidx.datastore.preferences.protobuf.Writer$FieldOrder[] values()
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: FlutterRenderer$ImageReaderSurfaceProducer(io.flutter.embedding.engine.renderer.FlutterRenderer,long)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setCustomContentView(android.app.Notification$Builder,android.widget.RemoteViews)

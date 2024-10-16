@@ -6,8 +6,5 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET"/>
-    <meta-data
-    android:name="com.google.android.geo.API_KEY"
-    android:value="AIzaSyBoHcIKWQNLscVF8kQhmlxmreKb6TP_QGo"/>
 
 </manifest>

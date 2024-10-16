@@ -15,7 +15,7 @@ void main() async {
   // เรียกใช้ SharedPreferences
   await Utility.initSharedPrefs();
 
-  initialRoute = AppRouter.usermap;
+  initialRoute = AppRouter.shoppingcart;
 
 
 
