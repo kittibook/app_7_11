@@ -61,7 +61,7 @@ class _ShoppingcartState extends State<Shoppingcart> {
                       child: Wrap(
                         spacing: 16.0,
                         runSpacing: 16.0,
-                        children: List.generate(4, (index) {
+                        children: List.generate(3, (index) {
                           return Container(
                             decoration: BoxDecoration(
                               color: Colors.grey[400],

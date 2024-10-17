@@ -23,6 +23,7 @@ class _CartState extends State<Cart> {
     _loadUserData();
   }
 
+
   Future<void> _loadUserData() async {
     var user1 = await Utility.getSharedPreference('USERMARKER');
     var user11 = await Utility.getSharedPreference('USERMARKER1');
@@ -30,7 +31,7 @@ class _CartState extends State<Cart> {
     var map1 = await Utility.getSharedPreference('SEVEN');
     var map11 = await Utility.getSharedPreference('SEVEN1');
     var map12 = await Utility.getSharedPreference('SEVEN2');
-    if (user11 != null && user12 != null && map11 != null && map12){
+    if (user11 != null && user12 != null && map11 != null && map12 != null){
     var _lastDistance = Geolocator.distanceBetween(
       map11,
       map12,
@@ -86,7 +87,7 @@ class _CartState extends State<Cart> {
             const Expanded(
                 child:
                     ProductList()), // ใช้ Expanded เพื่อป้องกันการเกิด overflow
-            PriceSummary(),
+            const PriceSummary(),
           ],
         ),
       ),
@@ -101,9 +102,18 @@ class AddressSevenSection extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final Map<String, dynamic>? arguments =
+        ModalRoute.of(context)?.settings.arguments as Map<String, dynamic>?;
+
+    // ดึงรายการสินค้าจาก arguments
+    final List<Item>? items = arguments?['cartItems'] as List<Item>?;
+
+    // ถ้าไม่มีสินค้าหรือไม่มีข้อมูล ให้แสดงข้อความ "ไม่มีสินค้าในตะกร้า"
+    if (items == null || items.isEmpty) {
+    }
     return GestureDetector(
       onTap: () async {
-        Navigator.pushReplacementNamed(context, AppRouter.sevenmap);
+        Navigator.pushReplacementNamed(context, AppRouter.sevenmap, arguments: { 'cartItems': items, });
       },
       child: Container(
         padding: const EdgeInsets.all(16),
@@ -138,9 +148,18 @@ class AddressSection extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final Map<String, dynamic>? arguments =
+        ModalRoute.of(context)?.settings.arguments as Map<String, dynamic>?;
+
+    // ดึงรายการสินค้าจาก arguments
+    final List<Item>? items = arguments?['cartItems'] as List<Item>?;
+
+    // ถ้าไม่มีสินค้าหรือไม่มีข้อมูล ให้แสดงข้อความ "ไม่มีสินค้าในตะกร้า"
+    if (items == null || items.isEmpty) {
+    }
     return GestureDetector(
       onTap: () async {
-        Navigator.pushReplacementNamed(context, AppRouter.usermap);
+        Navigator.pushReplacementNamed(context, AppRouter.usermap, arguments: { 'cartItems': items, });
       },
       child: Container(
         padding: const EdgeInsets.all(16),
@@ -263,7 +282,7 @@ class _PriceSummaryState extends State<PriceSummary> {
     var user12 = await Utility.getSharedPreference('USERMARKER2');
     var map11 = await Utility.getSharedPreference('SEVEN1');
     var map12 = await Utility.getSharedPreference('SEVEN2');
-    if (user11 != null && user12 != null && map11 != null && map12){
+    if (user11 != null && user12 != null && map11 != null && map12 != null){
       var _lastDistance = Geolocator.distanceBetween(
       map11,
       map12,
@@ -317,7 +336,7 @@ class _PriceSummaryState extends State<PriceSummary> {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                Text('รายการรวม', style: TextStyle(fontSize: 16)),
+                Text('ค่าสินค้า', style: TextStyle(fontSize: 16)),
                 Text('0 บาท',
                     style:
                         TextStyle(fontSize: 16)), // ลบ const ออกจาก TextStyle
@@ -351,7 +370,7 @@ class _PriceSummaryState extends State<PriceSummary> {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              Text('รายการรวม', style: TextStyle(fontSize: 16)),
+              Text('ราคาสินค้า', style: TextStyle(fontSize: 16)),
               Text('${totalPrice.toStringAsFixed(2)} บาท',
                   style: TextStyle(fontSize: 16)), // ลบ const ออกจาก TextStyle
             ],

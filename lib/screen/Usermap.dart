@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 import 'package:app_7_11/app_router.dart';
+import 'package:app_7_11/screen/shoppingcart.dart';
 import 'package:app_7_11/utility.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
@@ -124,10 +125,10 @@ class _UsermapState extends State<Usermap> {
 
     await Utility.setSharedPreference('USERMARKER1', _currentPosition.latitude);
     await Utility.setSharedPreference('USERMARKER2', _currentPosition.longitude);
-
+    
     setState(() {
       _savedPositions.add(_currentPosition); // เพิ่มพิกัดปัจจุบันลงในลิสต์
-      _getAddressFromLatLng();
+      
       getdata();
     });
   }
@@ -179,6 +180,15 @@ class _UsermapState extends State<Usermap> {
 
   @override
   Widget build(BuildContext context) {
+    final Map<String, dynamic>? arguments =
+        ModalRoute.of(context)?.settings.arguments as Map<String, dynamic>?;
+
+    // ดึงรายการสินค้าจาก arguments
+    final List<Item>? items = arguments?['cartItems'] as List<Item>?;
+
+    // ถ้าไม่มีสินค้าหรือไม่มีข้อมูล ให้แสดงข้อความ "ไม่มีสินค้าในตะกร้า"
+    if (items == null || items.isEmpty) {
+    }
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color.fromRGBO(6, 130, 68, 1),
@@ -199,7 +209,7 @@ class _UsermapState extends State<Usermap> {
               onCameraIdle: _onCameraIdle,
               initialCameraPosition: CameraPosition(
                 target: _currentPosition,
-                zoom: 10,
+                zoom: 15,
               ),
               myLocationEnabled: true,
               myLocationButtonEnabled: true,
@@ -248,8 +258,9 @@ class _UsermapState extends State<Usermap> {
                     height: 50,
                     child: GestureDetector(
                       onTap: () async {
-                        _saveCurrentPosition();
-                        Navigator.pushReplacementNamed(context, AppRouter.shoppingcart);
+                        await _saveCurrentPosition();
+                        await _getAddressFromLatLng();
+                        Navigator.pushReplacementNamed(context, AppRouter.cart,  arguments: { 'cartItems': items, });
                       },
                       child: Container(
                         decoration: BoxDecoration(

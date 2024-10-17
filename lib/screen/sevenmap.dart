@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 import 'package:app_7_11/app_router.dart';
+import 'package:app_7_11/screen/shoppingcart.dart';
 import 'package:app_7_11/utility.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
@@ -25,7 +26,7 @@ class _SevenmapState extends State<Sevenmap> {
 
   // หมุด seven
   // ignore: non_constant_identifier_names
-  LatLng Seven1 = const LatLng(19.029770588431973, 99.926240667770077);
+  LatLng Seven1 = const LatLng(0, 0);
   BitmapDescriptor customIcon = BitmapDescriptor.defaultMarker;
 
   @override
@@ -33,75 +34,6 @@ class _SevenmapState extends State<Sevenmap> {
     super.initState();
     _getCurrentLocation();
     getdata();
-  }
-
-  
-
-// ฟังก์ชันสำหรับบันทึกพิกัดปัจจุบัน
-  Future<void> _saveCurrentPosition() async {
-    // เพิ่ม Marker ลงใน _markers
-    await Utility.setSharedPreference('SEVEN1', _currentPosition.latitude);
-    await Utility.setSharedPreference('SEVEN2', _currentPosition.longitude);
-
-    setState(() {
-      _savedPositions.add(_currentPosition); // เพิ่มพิกัดปัจจุบันลงในลิสต์
-      _getAddressFromLatLng();
-      getdata();
-    });
-  }
-
-  AssetMapBitmap SevenIcon = AssetMapBitmap(
-    'assets/images/custom_marker.png',
-    width: 25,
-    height: 25,
-  );
-  Future<void> getdata() async {
-    var user1 = await Utility.getSharedPreference('USERMARKER1');
-    var user2 = await Utility.getSharedPreference('USERMARKER2');
-    var map1 = await Utility.getSharedPreference('SEVEN1');
-    var map2 = await Utility.getSharedPreference('SEVEN2');
-    setState(() {
-      if (user1 != null && user2 != null) {
-        _currentUserPosition = LatLng(user1, user2);
-      }
-      if (map1 != null && map2 != null) {
-        Seven1 = LatLng(map1, map2);
-      }
-
-      _markers.add(
-        Marker(
-          markerId: const MarkerId('Seven1'),
-          position: Seven1,
-          infoWindow:
-              const InfoWindow(title: 'Seven', snippet: 'Seven of Thailand'),
-          icon: SevenIcon,
-        ),
-      );
-
-      _markers.add(
-        Marker(
-          markerId: const MarkerId('User'),
-          position: _currentUserPosition,
-          infoWindow: const InfoWindow(title: 'Your Location'),
-          icon: customIcon,
-        ),
-      );
-    });
-  }
-
-  Future<void> _getAddressFromLatLng() async {
-    const apiKey =
-        'AIzaSyDdlrYf7eKH5CyMlnpP09HCDVSK7JOCzAg'; // เปลี่ยนเป็น API Key ของคุณ
-    final response = await http.get(Uri.parse(
-        'https://maps.googleapis.com/maps/api/geocode/json?latlng=${_currentPosition.latitude},${_currentPosition.longitude}&key=$apiKey'));
-
-    if (response.statusCode == 200) {
-      final data = json.decode(response.body);
-      if (data['results'].isNotEmpty) {
-        await Utility.setSharedPreference(
-            'SEVEN', data['results'][0]['formatted_address']);
-      } else {}
-    } else {}
   }
 
   // ignore: unused_element
@@ -161,8 +93,84 @@ class _SevenmapState extends State<Sevenmap> {
     });
   }
 
+// ฟังก์ชันสำหรับบันทึกพิกัดปัจจุบัน
+  Future<void> _saveCurrentPosition() async {
+    // เพิ่ม Marker ลงใน _markers
+    await Utility.setSharedPreference('SEVEN1', _currentPosition.latitude);
+    await Utility.setSharedPreference('SEVEN2', _currentPosition.longitude);
+
+    setState(() {
+      _savedPositions.add(_currentPosition); // เพิ่มพิกัดปัจจุบันลงในลิสต์
+      getdata();
+    });
+  }
+
+  AssetMapBitmap SevenIcon = AssetMapBitmap(
+    'assets/images/custom_marker.png',
+    width: 25,
+    height: 25,
+  );
+  Future<void> getdata() async {
+    var user1 = await Utility.getSharedPreference('USERMARKER1');
+    var user2 = await Utility.getSharedPreference('USERMARKER2');
+    var map1 = await Utility.getSharedPreference('SEVEN1');
+    var map2 = await Utility.getSharedPreference('SEVEN2');
+    setState(() {
+      if (user1 != null && user2 != null) {
+        _currentUserPosition = LatLng(user1, user2);
+      }
+      if (map1 != null && map2 != null) {
+        Seven1 = LatLng(map1, map2);
+      }
+
+      _markers.add(
+        Marker(
+          markerId: const MarkerId('Seven1'),
+          position: Seven1,
+          infoWindow:
+              const InfoWindow(title: 'Seven', snippet: 'Seven of Thailand'),
+          icon: SevenIcon,
+        ),
+      );
+
+      _markers.add(
+        Marker(
+          markerId: const MarkerId('User'),
+          position: _currentUserPosition,
+          infoWindow: const InfoWindow(title: 'Your Location'),
+          icon: customIcon,
+        ),
+      );
+    });
+  }
+
+  Future<void> _getAddressFromLatLng() async {
+    const apiKey =
+        'AIzaSyDdlrYf7eKH5CyMlnpP09HCDVSK7JOCzAg'; // เปลี่ยนเป็น API Key ของคุณ
+    final response = await http.get(Uri.parse(
+        'https://maps.googleapis.com/maps/api/geocode/json?latlng=${_currentPosition.latitude},${_currentPosition.longitude}&key=$apiKey'));
+
+    if (response.statusCode == 200) {
+      final data = json.decode(response.body);
+      if (data['results'].isNotEmpty) {
+        await Utility.setSharedPreference(
+            'SEVEN', data['results'][0]['formatted_address']);
+      } else {}
+    } else {}
+  }
+
   @override
   Widget build(BuildContext context) {
+    final Map<String, dynamic>? arguments =
+        ModalRoute.of(context)?.settings.arguments as Map<String, dynamic>?;
+
+    // ดึงรายการสินค้าจาก arguments
+    final List<Item>? items = arguments?['cartItems'] as List<Item>?;
+
+    // ถ้าไม่มีสินค้าหรือไม่มีข้อมูล ให้แสดงข้อความ "ไม่มีสินค้าในตะกร้า"
+    if (items == null || items.isEmpty) {
+      return const Center(child: Text('ไม่มีสินค้าในตะกร้า'));
+    }
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color.fromRGBO(6, 130, 68, 1),
@@ -183,7 +191,7 @@ class _SevenmapState extends State<Sevenmap> {
               onCameraIdle: _onCameraIdle,
               initialCameraPosition: CameraPosition(
                 target: _currentPosition,
-                zoom: 10,
+                zoom: 15,
               ),
               myLocationEnabled: true,
               myLocationButtonEnabled: true,
@@ -230,9 +238,12 @@ class _SevenmapState extends State<Sevenmap> {
                     height: 50,
                     child: GestureDetector(
                       onTap: () async {
-                        _saveCurrentPosition();
-                        Navigator.pushReplacementNamed(
-                            context, AppRouter.shoppingcart);
+                        await _saveCurrentPosition();
+                        await _getAddressFromLatLng();
+                        Navigator.pushReplacementNamed(context, AppRouter.cart,
+                            arguments: {
+                              'cartItems': items,
+                            });
                       },
                       child: Container(
                         decoration: BoxDecoration(

@@ -114,8 +114,6 @@ class _UserSevenmapState extends State<UserSevenmap> {
     setState(() {
       _savedPositions.add(_currentPosition);
       _lastDistance = _calculateDistance();
-      print(
-          "Distance to last saved position: ${_lastDistance.toStringAsFixed(2)} meters");
       _checkDistanceForShipping();
     });
   }
@@ -150,7 +148,6 @@ class _UserSevenmapState extends State<UserSevenmap> {
         throw Exception('Failed to load directions');
       }
     } catch (e) {
-      print('Error fetching directions: $e');
     }
   }
 

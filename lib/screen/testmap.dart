@@ -72,8 +72,6 @@ class _TestmapState extends State<Testmap> {
       _savedPositions.add(_currentPosition); // เพิ่มพิกัดปัจจุบันลงในลิสต์
       if (_savedPositions.length >= 2) {
         _lastDistance = _calculateDistance(_savedPositions.last);
-        print(
-            "Distance to last saved position: ${_lastDistance.toStringAsFixed(2)} meters");
       }
     });
   }
@@ -94,7 +92,6 @@ class _TestmapState extends State<Testmap> {
         throw Exception('Failed to load directions');
       }
     } catch (e) {
-      print('Error fetching directions: $e');
     }
   }
 
